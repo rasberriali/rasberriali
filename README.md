@@ -9,7 +9,7 @@
 I'm a passionate software developer with a strong foundation in both frontend and backend development. I enjoy building user-focused, scalable web applications and exploring cloud technologies like AWS. I recently completed real-world development projects during my OJT, including a full website revamp and a federated learning-based medical platform.
 
 - 🔧 Currently learning: AWS EC2, RDS, CI/CD pipelines
-- 🚀 Tools I use: React, Node.js, MongoDB, TailwindCSS, Express.js
+- 🚀 Tools I use: React, Node.js, MongoDB, TailwindCSS, Express.js, Vite
 - 🧠 Favorite topics: Web dev, Cloud, Machine Learning (applied)
 - 💼 Open to junior software engineering, frontend, or cloud support roles
 
