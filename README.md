@@ -45,7 +45,8 @@ I'm a passionate software developer with a strong foundation in both frontend an
 ## 📫 Let's Connect
 
 - ✉️ **Email**: [alysaemilio@gmail.com](mailto:alysaemilio@gmail.com)  
-- 🌐 **Portfolio**: [alysaemilio-com.vercel.app](https://alysaemilio-com.vercel.app)  
+- 🌐 **Portfolio**: [alysaemilio-com.vercel.app](https://alysaemilio-com.vercel.app)
+- 🌐 **Portfolio AWS**: [alysaemilio-com.vercel.app](http://alysaemilio.s3-website-ap-southeast-1.amazonaws.com)  
 - 🐙 **GitHub**: [@rasberriali](https://github.com/rasberriali)  
 - 💼 **LinkedIn**: [Alysa Juliiana M. Emilio](https://www.linkedin.com/in/alysa-juliana-emilio-33a195227/)
 
